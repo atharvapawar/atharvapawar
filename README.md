@@ -6,10 +6,10 @@
 
 ### 🌐 Full-Stack Developer | JavaScript & Python Enthusiast
 
-[![Website](https://img.shields.io/badge/Website-yourdomain.com-blue)](https://yourdomain.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourprofile-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Website](https://img.shields.io/badge/Website-My-Portfolio.com-blue)](https://my-portfolio-advance.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-atharvapawar34s-blue?logo=linkedin)](www.linkedin.com/in/atharvapawar34s)
 [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?logo=twitter)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-youremail%40domain.com-red?logo=gmail)](mailto:youremail@domain.com)
+[![Email](https://img.shields.io/badge/Email-atharvapawar34s@gmail.com-red?logo=gmail)](mailto:atharvapawar34s@gmail.com)
 
 ---
 
