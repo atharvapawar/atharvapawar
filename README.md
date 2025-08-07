@@ -6,15 +6,14 @@
 
 ### 🌐 Full-Stack Developer | JavaScript & Python Enthusiast
 
-[![Website](https://img.shields.io/badge/Website-my-portfolio-4C51BF?logo=html5)](https://my-portfolio-advance.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-atharvapawar-blue?logo=linkedin)](https://www.linkedin.com/in/atharvapawar34s)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
+[![Website](https://img.shields.io/badge/Website-my--portfolio--advance.netlify.app-4C51BF?logo=netlify)](https://my-portfolio-advance.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-atharvapawar-0A66C2?logo=linkedin)](https://www.linkedin.com/in/atharvapawar34s)
 [![Email](https://img.shields.io/badge/Email-atharvapawar34s%40gmail.com-DD4B39?logo=gmail)](mailto:atharvapawar34s@gmail.com)
 
 ---
 
 ### 🏆 About Me
-- 🎓 Bachelor’s in Computer Science from Pune University  
+- 🎓 Bachelor’s in Computer Application from Pune University  
 - 🔭 I’m currently building **scalable web apps** with React, Node.js & AWS  
 - 🌱 I’m learning **TypeScript**, **GraphQL**, and **Kubernetes**  
 - 💬 Ask me about **REST APIs**, **Microservices**, **Docker**, and **CI/CD**  
@@ -61,9 +60,9 @@
 | Project                                                    | Description                                                          | Tech Stack                               |
 |------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------|
 | [AwesomeStore](https://github.com/atharvapawar/AwesomeStore) | E-commerce SPA with shopping cart, payment integration & admin panel | React, Redux, Node.js, Express, MongoDB  |
-| [TaskFlow](https://github.com/atharvapawar/TaskFlow)         | Real-time Kanban board with drag-and-drop & notifications            | Vue.js, Vuex, Flask, WebSockets, Redis   |
-| [DevHub API](https://github.com/atharvapawar/DevHub-API)      | Public REST API for developer profiles, repos & tech stats           | Django REST Framework, PostgreSQL        |
-| [Portfolio](https://github.com/atharvapawar/portfolio)       | Personal portfolio website with blog & CMS                           | Gatsby, GraphQL, Netlify CMS             |
+| [TaskFlow](https://github.com/atharvapawar/TaskFlow)       | Real-time Kanban board with drag-and-drop & notifications            | Vue.js, Vuex, Flask, WebSockets, Redis   |
+| [DevHub API](https://github.com/atharvapawar/DevHub-API)   | Public REST API for developer profiles, repos & tech stats           | Django REST Framework, PostgreSQL        |
+| [Portfolio](https://github.com/atharvapawar/portfolio)     | Personal portfolio website with blog & CMS                           | Gatsby, GraphQL, Netlify CMS             |
 
 > **Tip:** Give each project repo a clear `README.md` with screenshots, GIFs, installation steps, and test/coverage badges.
 
