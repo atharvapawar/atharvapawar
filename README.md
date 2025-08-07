@@ -6,15 +6,15 @@
 
 ### 🌐 Full-Stack Developer | JavaScript & Python Enthusiast
 
-[![Website](https://img.shields.io/badge/Website-My-Portfolio.com-blue)](https://my-portfolio-advance.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-atharvapawar34s-blue?logo=linkedin)](www.linkedin.com/in/atharvapawar34s)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?logo=twitter)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-atharvapawar34s@gmail.com-red?logo=gmail)](mailto:atharvapawar34s@gmail.com)
+[![Website](https://img.shields.io/badge/Website-my-portfolio-4C51BF?logo=html5)](https://my-portfolio-advance.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-atharvapawar-blue?logo=linkedin)](https://www.linkedin.com/in/atharvapawar34s)
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-atharvapawar34s%40gmail.com-DD4B39?logo=gmail)](mailto:atharvapawar34s@gmail.com)
 
 ---
 
 ### 🏆 About Me
-- 🎓 Bachelor’s in Computer Science from Pune University
+- 🎓 Bachelor’s in Computer Science from Pune University  
 - 🔭 I’m currently building **scalable web apps** with React, Node.js & AWS  
 - 🌱 I’m learning **TypeScript**, **GraphQL**, and **Kubernetes**  
 - 💬 Ask me about **REST APIs**, **Microservices**, **Docker**, and **CI/CD**  
@@ -28,29 +28,29 @@
   <summary>Click to expand</summary>
   
 #### Frontend
-- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Redux
-- **UI & Styling:** HTML5, CSS3, SASS, Tailwind CSS, Bootstrap
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Redux  
+- **UI & Styling:** HTML5, CSS3, SASS, Tailwind CSS, Bootstrap  
 
 #### Backend
-- **Languages & Frameworks:** Node.js, Express.js, Python, Django, Flask
-- **APIs & Protocols:** REST, GraphQL, WebSockets
+- **Languages & Frameworks:** Node.js, Express.js, Python, Django, Flask  
+- **APIs & Protocols:** REST, GraphQL, WebSockets  
 
 #### Database & Storage
-- **Relational:** PostgreSQL, MySQL
-- **NoSQL:** MongoDB, Redis
-- **Storage & Caching:** AWS S3, Redis
+- **Relational:** PostgreSQL, MySQL  
+- **NoSQL:** MongoDB, Redis  
+- **Storage & Caching:** AWS S3, Redis  
 
 #### DevOps & Cloud
-- **Containers:** Docker, Docker Compose
-- **CI/CD:** GitHub Actions, Jenkins
-- **Cloud Providers:** AWS (EC2, Lambda, RDS), Heroku, Netlify
+- **Containers:** Docker, Docker Compose  
+- **CI/CD:** GitHub Actions, Jenkins  
+- **Cloud Providers:** AWS (EC2, Lambda, RDS), Heroku, Netlify  
 
 #### Testing
-- **Unit & Integration:** Jest, Mocha, Chai, pytest
-- **E2E:** Cypress, Selenium
+- **Unit & Integration:** Jest, Mocha, Chai, pytest  
+- **E2E:** Cypress, Selenium  
 
 #### Tools & Others
-- Git, GitHub, Linux, VS Code, Postman, Swagger, Figma
+- Git, GitHub, Linux, VS Code, Postman, Swagger, Figma  
 
 </details>
 
@@ -60,26 +60,20 @@
 
 | Project                                                    | Description                                                          | Tech Stack                               |
 |------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------|
-| [AwesomeStore](https://github.com/your-username/AwesomeStore) | E-commerce SPA with shopping cart, payment integration & admin panel | React, Redux, Node.js, Express, MongoDB  |
-| [TaskFlow](https://github.com/your-username/TaskFlow)         | Real-time Kanban board with drag-and-drop & notifications            | Vue.js, Vuex, Flask, WebSockets, Redis   |
-| [DevHub API](https://github.com/your-username/DevHub-API)      | Public REST API for developer profiles, repos & tech stats            | Django REST Framework, PostgreSQL        |
-| [Portfolio](https://github.com/your-username/portfolio)       | Personal portfolio website with blog & CMS                           | Gatsby, GraphQL, Netlify CMS             |
+| [AwesomeStore](https://github.com/atharvapawar/AwesomeStore) | E-commerce SPA with shopping cart, payment integration & admin panel | React, Redux, Node.js, Express, MongoDB  |
+| [TaskFlow](https://github.com/atharvapawar/TaskFlow)         | Real-time Kanban board with drag-and-drop & notifications            | Vue.js, Vuex, Flask, WebSockets, Redis   |
+| [DevHub API](https://github.com/atharvapawar/DevHub-API)      | Public REST API for developer profiles, repos & tech stats           | Django REST Framework, PostgreSQL        |
+| [Portfolio](https://github.com/atharvapawar/portfolio)       | Personal portfolio website with blog & CMS                           | Gatsby, GraphQL, Netlify CMS             |
 
-> **Tip:** Give each project repo a clear `README.md` with screenshots, GIFs, installation steps, and badges for build/tests coverage.
+> **Tip:** Give each project repo a clear `README.md` with screenshots, GIFs, installation steps, and test/coverage badges.
 
----
-<!--
-### 📈 GitHub Stats
-
-![YourName’s GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
--->
 ---
 
 ### 📫 How to Reach Me
 
-- 📧 **Email:** atharvapawar34s@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/atharvapawar34s](www.linkedin.com/in/atharvapawar34s)  
-- 📝 **Blog:** [my-portfolio-advance.netlify.app](https://my-portfolio-advance.netlify.app/)
+- 📧 **Email:** [atharvapawar34s@gmail.com](mailto:atharvapawar34s@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/atharvapawar34s](https://www.linkedin.com/in/atharvapawar34s)  
+- 📝 **Website:** [my-portfolio-advance.netlify.app](https://my-portfolio-advance.netlify.app/)
 
 ---
 
@@ -88,7 +82,7 @@
 ---
 
 **🔔 My Pinned Repositories:**  
-Use GitHub’s “Customize your pins” to feature up to six repos that best showcase the breadth and depth of your work.
+Use GitHub’s “Customize your pins” to feature up to six repos that best showcase your work.
 
 ---
 
