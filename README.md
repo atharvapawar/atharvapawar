@@ -17,7 +17,7 @@
 - 🔭 I’m currently building **scalable web apps** with React, Node.js & AWS  
 - 🌱 I’m learning **TypeScript**, **GraphQL**, and **Kubernetes**  
 - 💬 Ask me about **REST APIs**, **Microservices**, **Docker**, and **CI/CD**  
-- ⚡ Fun fact: I’ve run 2 half-marathons and love cooking international cuisines!
+- ⚡ Fun fact: I’ve run 2 half-marathons
 
 ---
 
