@@ -54,7 +54,7 @@
 </details>
 
 ---
-
+<!--
 ### 🚀 Featured Projects
 
 | Project                                                    | Description                                                          | Tech Stack                               |
@@ -67,7 +67,7 @@
 > **Tip:** Give each project repo a clear `README.md` with screenshots, GIFs, installation steps, and test/coverage badges.
 
 ---
-
+-->
 ### 📫 How to Reach Me
 
 - 📧 **Email:** [atharvapawar34s@gmail.com](mailto:atharvapawar34s@gmail.com)  
