@@ -1,8 +1,8 @@
 <!--
-  Hi there 👋 Welcome to my GitHub Profile!
+  Hi, I’m Atharv Pawar
 -->
 
-## 👋 Hi, I’m Atharv Pawar
+## Hi there! 👋 Welcome to my GitHub Profile!
 
 ### 🌐 Full-Stack Developer | JavaScript & Python Enthusiast
 
@@ -15,9 +15,9 @@
 ### 🏆 About Me
 - 🎓 Bachelor’s in Computer Application from Pune University  
 - 🔭 I’m currently building **scalable web apps** with React, Node.js & AWS  
-- 🌱 I’m learning **TypeScript**, **GraphQL**, and **Kubernetes**  
-- 💬 Ask me about **REST APIs**, **Microservices**, **Docker**, and **CI/CD**  
-- ⚡ Fun fact: I’ve run 2 half-marathons
+- 🌱 I’m learning **TypeScript**, **Nextjs**, and **DSA**  
+- 💬 Ask me about **React**, **REST APIs**, **Docker**, and **CI/CD**  
+- ⚡ Fun fact: I’ve run 1 half-marathon
 
 ---
 
@@ -79,10 +79,10 @@
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
-
+<!--
 **🔔 My Pinned Repositories:**  
 Use GitHub’s “Customize your pins” to feature up to six repos that best showcase your work.
-
+-->
 ---
 
 **🔭 What’s Next?**  
